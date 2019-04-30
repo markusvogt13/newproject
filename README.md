@@ -1,7 +1,7 @@
 # newproject
 Software Carpentry Course Würzburg
 
-## First Section
+## Introduction
 
 ## Second Section
 
