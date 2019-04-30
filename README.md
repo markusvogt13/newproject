@@ -2,6 +2,7 @@
 Software Carpentry Course Würzburg
 
 ## Introduction
+Introduction...
 
 ## Second Section
 
