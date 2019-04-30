@@ -10,3 +10,5 @@ Software Carpentry Course Würzburg
 ## Results
 
 ## Authors
+
+## Affiliations
